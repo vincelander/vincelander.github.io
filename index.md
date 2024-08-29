@@ -1,8 +1,23 @@
 ---
 layout: default
 ---
+* * *
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## This website is still in development ...
+
+* * *
+
+Hi, there! Good to see you here. My name is _Vince Lander Gamboa_, I'm a Data Scientist working with Accenture.
+
+You may wanna check my Github Repo instead for projects. There you'll see a link to my linkedin page as well. Thanks for checking in, have a great day!
+
+### Please check back soon for updates ...
+
+```
+tHIS SITE IS UNDERGOING EXPERIMENTATION AND EXPLORATION.
+```
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
