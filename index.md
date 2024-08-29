@@ -3,7 +3,7 @@ layout: default
 ---
 * * *
 
-## UNDER EXPERIMENTATION & MAINTENENACE ...
+## UNDER EXPERIMENTATION ...
 
 * * *
 
