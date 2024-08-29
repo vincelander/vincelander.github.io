@@ -2,8 +2,9 @@
 layout: default
 ---
 * * *
+![Gears](/assets/img/gear-logo.gif)
 
-## UNDER EXPERIMENTATION ...
+### UNDER EXPERIMENTATION ...
 
 * * *
 
