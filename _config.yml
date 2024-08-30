@@ -14,11 +14,12 @@ author: "Vince Lander Gamboa"
 title: "{ Career Portfolio }"
 description: "Career portfolio website of Vince Lander Gamboa."
 keywords: "Gamboa, Vince Lander, Vince, Lander, porfolio, personal, Data Science, Python"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon.png"
 ################
 # Header layout #
 ################
-black-favicon: "/img/black-lab-glass.ico"
+# black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.png"
 background-img: "../img/intro-bg.jpg"
 ##############################
 # Dynamic Text on the Header #
