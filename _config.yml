@@ -145,7 +145,7 @@ pages_list:
   About: "about"
   Project: "latest-post"
   Timeline: "timeline"
-  Certification: "#"
+  Certification: "certification"
   Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
