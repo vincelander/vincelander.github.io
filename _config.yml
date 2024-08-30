@@ -92,13 +92,13 @@ events:
     description: "Promoted and worked as a Data & AI Consultant."
   - image: "/img/jetpacktocat.png"
     date: "December 2022 - February 2024"
-    description: "Promoted and worked as a Data & AI Senior nalyst."
+    description: "Promoted and worked as a Data & AI Senior Analyst."
   - image: "/img/timeline/spidertocat.png"
     date: "September 2020 - November 2021"
     description: "Hired as a Data & AI Analyst at Accenture."
   - image: "/img/timeline/baracktocat.jpg"
     date: "November 2020 - August 2021"
-    description: "Hired as a Data Science Research ssociate at Gfk."
+    description: "Hired as a Data Science Research Associate at Gfk."
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
 ###########
