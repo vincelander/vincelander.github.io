@@ -1,14 +1,64 @@
----
-layout: default
----
+<!-- Post Layout Start -->
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<!doctype html>
+<html lang="{{ site.lang }}">
+  {% include head.html %}
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+  <body>
+    {% include navigation.html %}
 
-{{content}}
+    <section id="post" class="container content-section text-center">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <h1>{{ page.title }}</h1>
+          <h4>
+            {{ page.date | date_to_string }}
+            <small>
+              .
+              <a
+                class="category"
+                href="{{site.url}}/categories/{{page.category | downcase}}.html"
+              >
+                {{ page.category }} </a
+              >.
+              <a href="{{site.url}}{{page.url}}#disqus_thread"
+                >Comments</a
+              >
+              <br/>
+              {% for tag in page.tags %}
+              <a
+                class="tag"
+                href="{{site.url}}/tags/{{tag | downcase}}.html"
+                >#{{ tag }}</a
+              >
+              {% endfor %}
+            </small>
+          </h4>
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+          <section class="text-justify">
+            {{ page.content | markdownify }}
+          </section>
+
+          {% include share.html %} {% include comments.html %}
+
+          <hr />
+
+          {% if site.author_blurb %}
+          <div class="author row">
+            <img
+              class="col-xs-4 col-sm-3 col-md-2"
+              src="{{site.url}}{{site.author_blurb_image}}"
+              alt="Me"
+            />
+            <p class="col-xs-8 col-sm-9 col-md-10">{{ site.author_blurb }}</p>
+          </div>
+          {% endif%}
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %} {% include js.html %}
+  </body>
+</html>
+
+<!-- Post Layout End -->
