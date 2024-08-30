@@ -27,13 +27,14 @@ dynamic-typing: True
 shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
+type-speed: 15
 start-delay: 150
 delete-delay: 2750
 lines: # You can add HTML Tags in the Text
-  - text: "Hi, There. Thanks for paying a visit!."
+  - text: "Hi, There. Thanks for paying a visit!"
   - text: "I'm Vince Lander Gamboa."
-  - text: "A Data Scientist."
+  - text: "I'm a Data Scientist."
+  - text: "Data is the language of the powerholders."
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 me-img: "/img/author.jpg"
