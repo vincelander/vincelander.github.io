@@ -123,8 +123,8 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "Vince Lander Gamboa is a Data Scientist. He lives in the Philippines, where he works on data science
-  projects. In his spare time, Vince Lander likes to watch movies, travel, play guitar and study."
+  "Vince Lander Gamboa is a passionate Data Scientist residing in the Philippines, specializing in innovative data science projects. 
+  Outside of his professional pursuits, Vince enjoys watching movies, traveling, playing guitar, and engaging in continuous learning."
 author_blurb_image: "/img/author.jpg"
 ##################
 # Social Buttons #
