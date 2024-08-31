@@ -104,8 +104,8 @@ events:
     date: "April 2020"
     description: "Graduated with a degree, BS Information Technology at Jose Rizal University."
   - image: "/img/timeline/baracktocat.jpg"
-    date: "March 2020"
-    description: "Worked as an Intern."
+    date: "November 2019"
+    description: "Started to work as an intern."
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
 ###########
