@@ -144,7 +144,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: "about"
   Project: "latest-post"
-  Timeline: "timeline"
+  Milestone: "timeline"
   Certification: "certification"
   Contact: "contact"
 # Exclusion list from the generated _site
