@@ -32,7 +32,9 @@
                 <strong>{{ event.date | upcase }}</strong>
               </div>
               <div class="timeline-body">
-                {{ event.description | markdownify }}
+                <small>
+                  {{ event.description | markdownify }}
+                </small>
               </div>
             </div>
           </li>
