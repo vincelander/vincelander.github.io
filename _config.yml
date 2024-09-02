@@ -65,7 +65,7 @@ icon-36p: "/img/web-app/icon-36p.png"
 icon-48p: "/img/web-app/icon-48p.png"
 icon-72p: "/img/web-app/icon-72p.png"
 icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/timeline/graduation-icon.png"
+icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 ########
 # Blog #
@@ -103,7 +103,7 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "April 2020"
     description: "Graduated with a degree, BS Information Technology at Jose Rizal University."
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: ""/img/web-app/timeline/graduation-icon.png""
     date: "November 2019"
     description: "Started to work as an intern."
 # First image of the Timeline
@@ -151,7 +151,7 @@ pages_list:
   About: "about"
   Project: "latest-post"
   Milestone: "timeline"
-  Certifications: "certification"
+  Certification: "certification"
   Contact: "contact"
 # Exclusion list from the generated _site
 exclude:

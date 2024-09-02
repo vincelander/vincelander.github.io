@@ -1,17 +1,18 @@
-# { Personal } Jekyll Theme
+# Welcome to my data science portfolio
 
 { Personal } is a free responsive blog with minimal aesthetic, about you. You
 can watch it live [here](https://le4ker.github.io/personal-jekyll-theme/).
 
 <p align="center">
-    <img src="https://github.com/le4ker/personal-jekyll-theme/raw/main/.github/img/mobile.gif" alt="mobile" />
+    <!-- <img src="https://github.com/le4ker/personal-jekyll-theme/raw/main/.github/img/mobile.gif" alt="mobile" /> -->
+    <img src="https://github.com/vincelander/vincelander.github.io/tree/main/img/demo.gif" alt="Demo Video" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github.com/le4ker/personal-jekyll-theme/raw/main/.github/img/desktop.gif" alt="desktop" />
-</p>
+</p> -->
 
-## Deploy on Github Pages for free
+## Welcome to my data science portfolio
 
 Fork the repository and:
 
