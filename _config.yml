@@ -103,7 +103,7 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "April 2020"
     description: "Graduated with a degree, BS Information Technology at Jose Rizal University."
-  - image: ""/img/web-app/timeline/graduation-icon.png""
+  - image: "/img/timeline/baracktocat.jpg"
     date: "November 2019"
     description: "Started to work as an intern."
 # First image of the Timeline

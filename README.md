@@ -1,20 +1,76 @@
-## Welcome to my data science portfolio
+# { Personal } Jekyll Theme
+
+{ Personal } is a free responsive blog with minimal aesthetic, about you. You
+can watch it live [here](https://le4ker.github.io/personal-jekyll-theme/).
 
 <p align="center">
-    <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo.gif" alt="Demo Video" />
+    <img src="https://github.com/le4ker/personal-jekyll-theme/raw/main/.github/img/mobile.gif" alt="mobile" />
 </p>
 
-This website is a web-responsive personal data science portfolio. If you want to check it out, you may click [here](https://vincelander.github.io/).
+<p align="center">
+    <img src="https://github.com/le4ker/personal-jekyll-theme/raw/main/.github/img/desktop.gif" alt="desktop" />
+</p>
 
-This said site is intended to showcase my career track as a data scientist. Here's an overview of the features you can see in the aforementioned portfolio.
+## Deploy on Github Pages for free
 
-- About
-- Project
-- Milestone
-- Certification
-- Contact
+Fork the repository and:
 
-### Things to take note of.
+1. Rename the forked repository to `yourusername.github.io`
+2. Update the `url` in `_config.yml` to be `yourusername.github.io`
+3. Commit the changes and after the Github Action of your commit succeeds, you
+   should see your website at `https://yourusername.github.io`
 
-1. This website's project section is still in progress, I'm still gathering the resources of my projects before I populate it in the site. 
-2. I plan to incorporate a section for my skillset in the near future.
+## How to run locally
+
+You can use Docker to run the website to avoid installing any dependencies to
+your local environment. To do so, run:
+
+```shell
+docker-compose up --build
+```
+
+Alternatively, you can run the website locally by installing ruby (3.2.2) and
+then installing the project dependencies by running:
+
+```shell
+bundle install
+```
+
+And then start serving the website:
+
+```shell
+jekyll serve --watch --livereload
+```
+
+## Documentation
+
+The theme contains documentation in the form of
+[blog posts](https://le4ker.github.io/personal-jekyll-theme/blog).
+
+## Features
+
+- Fork of [Timeline](https://github.com/kirbyt/timeline-jekyll-theme) (mashup of
+  [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale)
+  and [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme))
+  - Modern and minimal design
+    - Responsive templates for home page, blog archive and posts. Looks great on
+      mobile, tablet, and desktop devices
+  - Timeline
+    - Tell your story so far with a sleek timeline of dates, pictures and
+      descriptions
+      - White on black text, making the reading experience tireless
+- Customization and full control of your website and blog through the site
+  config
+- Blogging functionality
+  - Preview of the latest post in the home page
+  - Archive page
+  - Syntax highlighting
+  - Hashtags
+  - Categories
+  - Disqus comments
+  - Share buttons
+  - RSS feed
+- Google analytics
+- Cookies consent
+- Protection from email harvesting
+- Sitemap
