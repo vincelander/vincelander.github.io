@@ -107,7 +107,7 @@ events:
     date: "November 2019"
     description: "Started to work as an intern."
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/default-icon.png"
 ###########
 # Contact #
 ###########
