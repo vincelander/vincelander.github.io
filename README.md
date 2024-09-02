@@ -4,13 +4,13 @@
 
 <p align="center">
     Desktop View
-    <br>
+    <br><br>
     <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-desktop.gif" alt="demo_video" />
 </p>
 
 <p align="center">
     Mobile View
-    <br>
+    <br><br>
     <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-mobile.gif" alt="demo_video" />
 </p>
 
