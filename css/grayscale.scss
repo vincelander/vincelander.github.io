@@ -361,6 +361,11 @@ body {
   font-size: 2.2rem;
 }
 
+.container {
+  position: relative;
+  width: 25%;
+}
+
 .image {
   opacity: 1;
   display: block;
@@ -381,11 +386,11 @@ body {
   text-align: center;
 }
 
-.image:hover .image {
+.container:hover .image {
   opacity: 0.3;
 }
 
-.image:hover .middle {
+.container:hover .middle {
   opacity: 1;
 }
 
