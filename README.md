@@ -2,13 +2,13 @@
 
 ### Demo Video
 
-Desktop View
 <p align="center">
+    Desktop View
     <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-desktop.gif" alt="demo_video" />
 </p>
 
-Mobile View
 <p align="center">
+    Mobile View
     <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-mobile.gif" alt="demo_video" />
 </p>
 
