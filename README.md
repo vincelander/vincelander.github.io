@@ -1,7 +1,15 @@
 ## Welcome to my data science portfolio
 
+### Demo Video
+
+Desktop View
 <p align="center">
-    <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-video.gif" alt="demo_video" />
+    <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-desktop.gif" alt="demo_video" />
+</p>
+
+Mobile View
+<p align="center">
+    <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo-mobile.gif" alt="demo_video" />
 </p>
 
 This website is a web-responsive personal data science portfolio. If you want to check it out, you may click [here](https://vincelander.github.io/).
