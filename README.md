@@ -1,7 +1,7 @@
 ## Welcome to my data science portfolio
 
 <p align="center">
-    <img src="https://github.com/vincelander/vincelander.github.io/tree/main/img/demo.gif" alt="Demo Video" />
+    <img src="https://github.com/vincelander/vincelander.github.io/blob/main/img/demo.gif" alt="Demo Video" />
 </p>
 
 This website is a web-responsive personal data science portfolio. If you want to check it out, you may click [here](https://vincelander.github.io/).
