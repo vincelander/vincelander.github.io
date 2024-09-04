@@ -30,7 +30,7 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 15
 start-delay: 150
-delete-delay: 1500
+delete-delay: 1750
 lines: # You can add HTML Tags in the Text
   - text: "Hi, There. Thanks for paying a visit!"
   - text: "I'm Vince Lander Gamboa."
