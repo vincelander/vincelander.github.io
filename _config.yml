@@ -155,7 +155,8 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 pages_list:
   About: "about"
-  Project: "latest-post"
+  # Blog: "latest-post"
+  Project: "project"
   Milestone: "timeline"
   Certification: "certification"
   Contact: "contact"
