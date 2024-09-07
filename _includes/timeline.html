@@ -31,8 +31,8 @@
               <div class="timeline-heading">
                 <strong>{{ event.date | upcase }}</strong>
               </div>
-              <div class="timeline-body">
-                <small>{{ event.description | markdownify }}</small>
+              <div class="timeline-body" style="font-size: small;">
+                {{ event.description | markdownify }}
               </div>
             </div>
           </li>
