@@ -159,7 +159,7 @@ pages_list:
   Project: "project"
   Milestone: "timeline"
   Certification: "certification"
-  Skill: "#"
+  # Skill: "#"
   Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
