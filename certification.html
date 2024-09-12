@@ -4,6 +4,43 @@ section-type: certification
 title: Certification
 ---
 
+<style>
+    .certificate-container {
+        position: relative;
+        width: 100%;
+    }
+    .certificate-container .image {
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        transition: .5s ease;
+        backface-visibility: hidden;
+    }
+    .certificate-container .middle {
+        transition: .5s ease;
+        opacity: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .certificate-container .middle div {
+        background-color: #232a2e;
+        color: white;
+        font-size: 16px;
+        padding: 16px 32px;
+    }
+    .certificate-container:hover .image {
+        opacity: 0.3;
+    }
+    .certificate-container:hover .middle {
+        opacity: 1;
+    }
+</style>
+
 <h2>Certification</h2>
 
 <div class="row">
@@ -134,7 +171,7 @@ title: Certification
     </div>
     <div class="col-md-6">
         <br><br>
-        <a href="https://coursera.org/share/89f0d6d59a01f2434c4662c3ce5b5fef" target="_blank" title="Verify certificate by clicking here">
+        <!-- <a href="https://coursera.org/share/89f0d6d59a01f2434c4662c3ce5b5fef" target="_blank" title="Verify certificate by clicking here">
             <img src="/img/certificate/attention_mechanism.jpeg" alt="Attention_Mechanism_Certificate">
             <br>
             Attention Mechanism
@@ -143,10 +180,26 @@ title: Certification
         Google Cloud
         <br>
         July 2023
+        <br><br> -->
+        <div class="certificate-container"></div>
+            <a href="https://coursera.org/share/89f0d6d59a01f2434c4662c3ce5b5fef" target="_blank">
+                <img src="/img/certificate/attention_mechanism.jpeg" alt="Attention_Mechanism_Certificate" class="image">
+                <div class="middle">
+                    <div>Verify certificate</div>
+                </div>
+            </a>
+        </div>
+        <br>
+        Attention Mechanism
+        <br>
+        Google Cloud
+        <br>
+        July 2023
         <br><br>
     </div>
+    </div>
 </div>
-<div class="row">
+<!-- <div class="row">
     <div class="col-md-3"></div>
     <div class="col-md-6">
         <br><br>
@@ -167,7 +220,7 @@ title: Certification
         <br><br>
     </div>
     <div class="col-md-3"></div>
-</div>
+</div> -->
 <br>
 <div class="row">
     <div class="col-md-3"></div>
