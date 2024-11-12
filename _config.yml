@@ -96,7 +96,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/second-job-2.png"
     date: "November 2024"
-    description: "Hired as an AI Engineer at Safeway Philtech Inc."
+    description: "Worked as an AI Engineer at Safeway Philtech Inc."
   - image: "/img/timeline/second-job-3.png"
     date: "March 2024"
     description: "Promoted and worked as a Data & AI Consultant."
@@ -105,7 +105,7 @@ events:
     description: "Promoted and worked as a Data & AI Senior Analyst."
   - image: "/img/timeline/second-job-1.png"
     date: "September 2020"
-    description: "Hired as a Data & AI Analyst at Accenture."
+    description: "Worked as a Data & AI Analyst at Accenture."
   - image: "/img/timeline/first-job.png"
     date: "November 2020"
     description: "Hired as a Data Science Research Associate at Gfk."
