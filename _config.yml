@@ -94,7 +94,7 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
-  - image: "/img/timeline/second-job-5.png"
+  - image: "/img/timeline/second-job-6.png"
     date: "November 2024"
     description: "Worked as an AI Engineer at Safeway Philtech Inc."
   - image: "/img/timeline/second-job-3.png"
