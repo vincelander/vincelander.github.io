@@ -96,7 +96,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/second-job-6.png"
     date: "November 2024"
-    description: "Worked as an AI Engineer at Safeway Philtech Inc."
+    description: "Works as an AI Engineer at Safeway Philtech Inc."
   - image: "/img/timeline/second-job-3.png"
     date: "March 2024"
     description: "Promoted and worked as a Data & AI Consultant."
