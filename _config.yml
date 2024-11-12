@@ -94,9 +94,9 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
-  - image: "/img/timeline/second-job-1.png"
+  - image: "/img/timeline/second-job-2.png"
     date: "November 2024"
-    description: "Promoted and worked as an AI Engineer."
+    description: "Hired as an AI Engineer at Safeway Philtech Inc."
   - image: "/img/timeline/second-job-3.png"
     date: "March 2024"
     description: "Promoted and worked as a Data & AI Consultant."
