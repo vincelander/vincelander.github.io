@@ -94,7 +94,7 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
-  - image: "/img/timeline/second-job-4.png"
+  - image: "/img/timeline/second-job-1.png"
     date: "November 2024"
     description: "Promoted and worked as an AI Engineer."
   - image: "/img/timeline/second-job-3.png"
