@@ -94,9 +94,12 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
+  - image: "/img/timeline/second-job-2.png"
+    date: "September 2025"
+    description: "Works as an AI Sorftware Engineer Senior Principal at Safeway Philtech Inc."
   - image: "/img/timeline/second-job-6.png"
     date: "November 2024"
-    description: "Works as an AI Engineer at Safeway Philtech Inc."
+    description: "Works as an AI Engineer at ITM for Safeway Philtech Inc."
   - image: "/img/timeline/second-job-3.png"
     date: "March 2024"
     description: "Promoted and worked as a Data & AI Consultant."
